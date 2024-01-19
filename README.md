@@ -22,6 +22,7 @@ Este é um projeto simples de previsão de precipitação usando um modelo de re
  **Você pode instalar as bibliotecas necessárias executando o seguinte comando no terminal:**
 
 ```bash pip install pandas scikit-learn matplotlib```
+
 4. **Entendendo o Projeto** 🤓
 
 
