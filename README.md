@@ -27,7 +27,7 @@ Este é um projeto simples de previsão de precipitação usando um modelo de re
 
 
    - **Conceitos Importantes** 🧠:
-        - **Regressão Linear:** **Modelagem da relação linear entre variáveis.
+        - **Regressão Linear:** Modelagem da relação linear entre variáveis.
         - **sklearn:** Biblioteca de aprendizado de máquina em Python.
         - **Matplotlib:** Biblioteca para criação de gráficos.
      
